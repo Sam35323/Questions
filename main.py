@@ -82,7 +82,7 @@ def novaya_funkciya():
         print(f'У вас -{lore} iq')
         kategoriya, vopros, sloghnost, variki, tuty, hujy = next_blok(kakayato_peremennaya)
     kakayato_peremennaya.close()
-    print(f'пока жулаем удачи человек с -{lore} iq')
+    print(f'желаем удачи человек с -{lore} iq')
 
 
 novaya_funkciya()
